@@ -1,0 +1,9 @@
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\CA.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\CA_2.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\CA_3.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\QV.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\QV_2.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\QV_3.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\TAE.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\TAE_2.png
+D:/Reginaldo/PYTHON/ProjetoSAE/imagens/val\TAE_3.png
