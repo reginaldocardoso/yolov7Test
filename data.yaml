@@ -1,0 +1,27 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['CirculoAzul', 'QuadradoVinho', 'TrianguloAzul']
+
+roboflow:
+  workspace: reginaldo-cardoso
+  project: simbolstaphrosdrone
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/reginaldo-cardoso/simbolstaphrosdrone/dataset/1
+
+# train: D:\Reginaldo\PYTHON\ProjetoSAE\train.txt #../train/images
+# val: D:\Reginaldo\PYTHON\ProjetoSAE\val.txt #../valid/images
+# # test: ../test/images
+
+# nc: 3
+# names: ['CirculoAzul', 'QuadradoVinho', 'TrianguloAzul']
+
+# # roboflow:
+# #   workspace: reginaldo-cardoso
+# #   project: simbolstaphrosdrone
+# #   version: 1
+# #   license: CC BY 4.0
+# #   url: https://universe.roboflow.com/reginaldo-cardoso/simbolstaphrosdrone/dataset/1
